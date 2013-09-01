@@ -1,0 +1,8 @@
+name: Trollololo
+version: 1.0
+main: me.zeus.Trollololo.Main
+description: Test
+commands:
+  troll:
+    description: 
+    syntax: /troll
